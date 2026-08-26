@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="bash">
 </p>
 
-Aprendiendo y practicando hacking ético en TryHackMe y HackTheBox. Creo herramientas con IA en modo vive coding y las publico aquí para que cualquiera pueda clonar, instalar y usar. La marca es global: mismo dragón, misma paleta oscura con neón rosa morado y mismo lore en Instagram y GitHub.
+Aprendiendo y practicando hacking ético en TryHackMe y HackTheBox. Creo herramientas con IA en modo vive coding y las publico aquí para que cualquiera pueda clonar, instalar y usar. 
 
 **Proyecto destacado → [trd](https://github.com/kalisolinuxo-design/trd)** — traductor de terminal por `pipe`, fichero y redirección `comando | trd -e` vía `translate-shell` con flags estilo matrículas internacionales. Instalable con `./install.sh` en `/usr/local/bin`.
 
