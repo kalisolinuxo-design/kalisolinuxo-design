@@ -5,14 +5,6 @@
 <h1 align="center">Kaliso Linuxo</h1>
 <p align="center"><b>AI creator — Ciberseguridad & Hacking & Vive Coding</b><br>THM • HTB • GitHub • Herramientas • Trucos • Casos reales</p>
 
-<p align="center">
-  <a href="https://www.instagram.com/kalisolinuxo/"><img src="https://img.shields.io/badge/Instagram-kalisolinuxo-E4405F?style=flat&logo=instagram&logoColor=white" alt="instagram"></a>
-  <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali-Linux-557C94?style=flat&logo=kalilinux&logoColor=white" alt="kali"></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white" alt="python"></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="bash"></a>
-  <a href="https://www.credly.com/badges/b8f04da5-a36d-48a6-9752-21ec913d5fd5/public_url"><img src="https://img.shields.io/badge/Linux-Essentials-2E2E2E?style=flat&logo=linux&logoColor=white" alt="linux"></a>
-</p>
-
 Aprendiendo y practicando hacking ético en TryHackMe y HackTheBox. Creo herramientas con IA en modo vive coding y las publico aquí. Misma línea y lore que en Instagram, aquí con foco técnico.
 
 <p align="center">
