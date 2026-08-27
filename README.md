@@ -3,9 +3,9 @@
 </p>
 
 <h1 align="center">Kaliso Linuxo</h1>
-<p align="center"><b>AI creator — Ciberseguridad & Hacking & Vive Coding</b><br>THM • HTB • GitHub • Herramientas • Trucos • Casos reales</p>
+<p align="center"><b>AI creator — Ciberseguridad & Hacking & Vive Coding</b><br>THM • HTB • GitHub • Herramientas • Trucos • Casos...</p>
 
-Aprendiendo y practicando hacking ético en TryHackMe y HackTheBox. Creo herramientas con IA en modo vive coding y las publico aquí. Misma línea y lore que en Instagram, aquí con foco técnico.
+Aprendiendo y practicando hacking ético en TryHackMe y HackTheBox. Creo herramientas con IA en modo vive coding y las publico aquí. Misma línea  que en Instagram, pero aquí un poco mas técnico.
 
 <p align="center">
   <a href="https://www.credly.com/badges/496e32ba-16fa-4b76-b49c-cc1858c8e6d3/public_url"><img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="120" alt="Python Essentials 1 - Cisco"/></a>
